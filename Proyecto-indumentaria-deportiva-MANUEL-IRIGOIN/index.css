@@ -1,0 +1,52 @@
+/*
+body{
+    background-image: url("https://phantom-marca.unidadeditorial.es/94a2c56be8b62548397777f139c7bb24/assets/multimedia/imagenes/2020/05/06/15887479830134.jpg")
+}
+*/
+/*NAVEGADOR*/
+body{
+  background-color: lightgrey;
+}
+ul{
+  list-style: none;
+  padding: 5px;
+  text-align: center;
+  text-decoration:none;
+  text-transform:uppercase;
+  font-size: 20px;
+}
+h1{
+  width: 100%;
+  color: black;
+  text-align: center;
+  padding: 0px;
+  font-size: 40px;
+}
+h2{
+  width: 100%;
+  color: darkred;
+  text-align:start;
+  font-size: 20px;
+  padding: 0px;
+}
+footer>ul{
+  text-align: left;
+  font-size: 14px;
+  text-transform: none;
+}
+
+article{
+font-family: var(--bs-body-font-family);
+font-size: var(--bs-body-font-size);
+font-weight: var(--bs-body-font-weight);
+line-height: var(--bs-body-line-height);
+color: var(--bs-body-color);
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: transparent;
+text-align: center;
+box-sizing: border-box;
+width: 100%;
+max-width: 330px;
+padding: 15px;
+margin: auto;
+}
